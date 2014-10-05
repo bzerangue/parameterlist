@@ -1,6 +1,6 @@
 ## ParameterList
 
-### A Basic way to manually add parameters to Symphony CMS
+### A basic way to manually add parameters to Symphony CMS
 
 Version: 1.0  
 Requirements: Symphony CMS 2.3 and above
