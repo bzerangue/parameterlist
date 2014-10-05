@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="parameterlist" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+	<name>ParameterList</name>
+	<description>Add a static list parameters</description>
+<!-- 	<repo type="github">https://github.com/symphonists/globalparamloader</repo>
+	<url type="discuss">http://getsymphony.com/discuss/thread/785/</url> -->
+	<types>
+		<type>Interface</type>
+		<type>Workflow</type>
+	</types>
+	<authors>
+		<author>
+			<name github="bzerangue" symphony="carsten">Brian Zerangue</name>
+		</author>
+		<author>
+			<name github="firegoby" symphony="firegoby">Chris Batchelor</name>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2014-10-02" min="2.3">
+			- Initial public release
+		</release>
+	</releases>
+</extension>
