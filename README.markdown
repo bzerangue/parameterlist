@@ -2,7 +2,7 @@
 
 ### A basic way to manually add parameters to Symphony CMS
 
-Version: 1.0  
+Version: 1.1  
 Requirements: Symphony CMS 2.3 and above
 
 Thanks to [@firegoby (Chris Batchelor)](https://github.com/firegoby), who was kind enough to show me how to accomplish this and basically write this script for me. 
