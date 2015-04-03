@@ -10,13 +10,16 @@
 	</types>
 	<authors>
 		<author>
-			<name github="bzerangue" symphony="carsten">Brian Zerangue</name>
+			<name github="bzerangue" symphony="bzerangue">Brian Zerangue</name>
 		</author>
 		<author>
 			<name github="firegoby" symphony="firegoby">Chris Batchelor</name>
 		</author>
 	</authors>
 	<releases>
+		<release version="1.1.1" date="2015-04-03" min="2.3" max="2.6.x">
+			- Fixed error in extension.meta.xml.
+		</release>
 		<release version="1.1" date="2015-03-15" min="2.3" max="2.6.x">
 			- Corrected extension.meta.xml to show Symphony 2.6.x support.
 		</release>
